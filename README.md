@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @ps-vcu
-- 👀 I’m interested in ...Biological sciences and role of python at micro scale.
-- 🌱 I’m currently learning ...applications and coding it python. and many more cool things such as CryoEM and Protein structure analysis
-- 💞️ I’m looking to collaborate on ... micro Code writting, such as easy to rename files etc.
-- 📫 How to reach me ... email me.
+👋 Hi, I’m Pradip (ps-vcu)
 
-<!---
-ps-vcu/ps-vcu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+🔬 Molecular microbiologist & structural biologist working on host–pathogen interactions, cryo-EM, and antimicrobial discovery.
+
+🐍 I use Python for:
+   - Enzyme kinetics (Michaelis–Menten modeling)
+   - High-throughput screening data analysis
+   - Structural biology workflows
+   - Automation scripts for laboratory data processing
+
+🧬 Interested in:
+   - Translational microbiology
+   - AI-driven modeling in biology
+   - Structure-guided drug discovery
+
+🤝 Open to collaborations on:
+   - Research data analysis pipelines
+   - Reproducible computational biology workflows
+   - Scientific Python tools for microbiology
+
+📫 Contact: [institutional email]
+
 --->
